@@ -7,3 +7,6 @@ __pycache__
 
 # Ignore environment configuration files
 .env
+
+# Ignore large model files
+best_model.pth
