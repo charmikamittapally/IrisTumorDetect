@@ -2,7 +2,8 @@
 
 This project aims to classify iris images into two categories: Tumor or Normal, using deep learning techniques. The model leverages the ResNet50 architecture with transfer learning for efficient and accurate predictions.
 
-##Project Overview
+## Project Overview
+
 The project uses ResNet50 for classifying iris images into two categories: Tumor and Normal. The dataset consists of labeled images of normal and tumored iris. The model is trained using these images and fine-tuned to achieve better accuracy.
 
 ### Key Components:
