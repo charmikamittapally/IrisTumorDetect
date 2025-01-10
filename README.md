@@ -8,13 +8,18 @@ The project uses ResNet50 for classifying iris images into two categories: Tumor
 
 ### Key Components:
 ResNet50: Used for image classification tasks.
+
 PyTorch: Deep learning framework used for building and training the model.
+
 OpenCV & PIL: For image processing and augmentation.
 
 ### Features
 Image pre-processing: Histogram equalization and data augmentation (rotation, flip).
+
 Transfer learning using pre-trained ResNet50 for better performance.
+
 Easy-to-use interface for uploading an iris image and getting a prediction.
+
 Web app for real-time prediction.
 
 ### Installation
@@ -22,7 +27,7 @@ Follow these steps to set up the project:
 
 1.**Clone the repository:**
 
-  git clone https://github.com/yourusername/IrisTumorDetect.git
+  git clone https://github.com/charmikamittapally/IrisTumorDetect.git
 
 2.**Install dependencies:** Make sure you have Python 3.6+ installed. Then, install the required libraries:
 
